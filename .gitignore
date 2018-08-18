@@ -1,0 +1,24 @@
+## Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# -----
+
+## BASE – System Files – Mac OS X
+.DS_Store
+.DS_Store?
+*.swp
+
+## BASE – System Files – Windows
+Thumbs.db
+
+## IDE - VSCode
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
